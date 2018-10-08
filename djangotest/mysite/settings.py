@@ -25,7 +25,7 @@ SECRET_KEY = '5!^lm=s*$axdj7caf(^@xv(vh4rt#1wf()9ulb$d+qlar(o%o_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'awsamazon.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'awsamazon.com', '18.224.213.106']
 
 
 # Application definition
